@@ -18,15 +18,3 @@ This code was focused on using rotate and translate functions overlapped ontop o
 
 #3 Worm - p5.js, Week 5
 This code really helped solidify my understanding of noise, as it was a very clear representative of how noise choses values of closer proximity to each other compaired to the random function, and how this can be translated into creating a smoother moving shape. Having this shown to me in physical form was very helpful, espcially when I compaired it to the random code I had made previously - noise just made the ellipse move so much nicer and more intentionally. The ellipse in this code has it's x and y values determined by noise, whilst its r,g,b values are random. It is very easy to see the difference between the sporadically changing fill colours compaired to the smoothly moving ellipse trail, so it was a very helpful peice of code for me that contributed to my overall coding knowledge. 
-
-
-
-
-
-
-
-
-
-
-
-Then click "commit changes", then select "Commit directly to the main branch" and click "commit changes" again to save your text.
